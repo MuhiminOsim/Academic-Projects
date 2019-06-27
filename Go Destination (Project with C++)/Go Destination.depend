@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1529537206 source:c:\users\user\desktop\go destination\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"head.h"
+
+1529682772 c:\users\user\desktop\go destination\head.h
+	"screenheader.h"
+	"menu.h"
+	"switching.h"
+	"getAcar.h"
+	"admin.h"
+
+1529537033 source:c:\users\user\desktop\go destination\screenheader.cpp
+	<bits/stdc++.h>
+	"head.h"
+
+1530001213 source:c:\users\user\desktop\go destination\menu.cpp
+	<bits/stdc++.h>
+	"head.h"
+	<time.h>
+
+1529537034 c:\users\user\desktop\go destination\screenheader.h
+
+1529537033 c:\users\user\desktop\go destination\menu.h
+
+1529537043 c:\users\user\desktop\go destination\switching.h
+
+1530000898 source:c:\users\user\desktop\go destination\admin.cpp
+	<bits/stdc++.h>
+	"head.h"
+
+1529872953 c:\users\user\desktop\go destination\getacar.h
+
+1529537057 c:\users\user\desktop\go destination\admin.h
+
+1530045868 source:c:\users\user\desktop\go destination\getacar.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"head.h"
+
+1529873162 source:c:\users\user\desktop\go destination\switching.cpp
+	<bits/stdc++.h>
+	"head.h"
+
+1529682661 c:\users\user\desktop\go destination\getdistance.h
+
+1529682577 source:c:\users\user\desktop\go destination\getdistance.cpp
+	<bits/stdc++.h>
+	"head.h"
+

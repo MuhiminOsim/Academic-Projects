@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.godestination.MainActivity"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="279dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="84dp"
+        android:layout_marginEnd="-142dp"
+        android:layout_toStartOf="@+id/driver"
+        android:text="Go Destination"
+        android:textColor="#a9ffa9"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/driver"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/customer"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="34dp"
+        android:layout_toEndOf="@+id/customer"
+        android:text="I'm a Driver" />
+
+    <Button
+        android:id="@+id/nxtWeather"
+        style="@android:style/Widget.Holo.Light.Button.Toggle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/customer"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="36dp"
+        android:text="Weather Update" />
+
+    <Button
+        android:id="@+id/customer"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="353dp"
+
+        android:text="I'm a Customer" />
+
+</RelativeLayout>

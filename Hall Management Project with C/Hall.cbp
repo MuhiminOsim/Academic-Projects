@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Hall" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Hall" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Hall" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="delete.cpp" />
+		<Unit filename="delete.h" />
+		<Unit filename="hall.h" />
+		<Unit filename="insert.cpp" />
+		<Unit filename="insert.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="screenheader.cpp" />
+		<Unit filename="screenheader.h" />
+		<Unit filename="search.cpp" />
+		<Unit filename="search.h" />
+		<Unit filename="searchbatch.cpp" />
+		<Unit filename="searchbatch.h" />
+		<Unit filename="searchdept.cpp" />
+		<Unit filename="searchdept.h" />
+		<Unit filename="searchname.cpp" />
+		<Unit filename="searchname.h" />
+		<Unit filename="searchroom.cpp" />
+		<Unit filename="searchroom.h" />
+		<Unit filename="structure.h" />
+		<Unit filename="student data.txt" />
+		<Unit filename="switch.cpp" />
+		<Unit filename="switching.h" />
+		<Unit filename="update.cpp" />
+		<Unit filename="update.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

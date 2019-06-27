@@ -1,0 +1,4 @@
+Osim Kajipara Kachukhet 2 5 0 12 20 12 40
+Pias Mirpur-10 Mirpur-14 1 5 1 2 30 2 40
+Noman Mirpur-2 Mirpur-12 2 4.9 0 5 30 6 0
+Jisan Kachukhet Mirpur-11 1 5 1 20 30 21 20

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Go Destination</string>
+    <string name="title_activity_driver_map">Map</string>
+    <string name="title_activity_customer_map">Map</string>
+</resources>

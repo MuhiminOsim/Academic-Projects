@@ -1,0 +1,8 @@
+Kajipara 0 0
+Mirpur-10 0 5
+Mirpur-2 -5 5
+Mirpur-14 8 6
+Kachukhet 9 2
+Mirpur-11 0 9
+Mirpur-12 0 11
+

@@ -1,0 +1,4 @@
+Osim Mirpur-10 Mirpur-10 4 3.95 1 14 11 14 19
+Pias Mirpur-14 Mirpur-14 3 4.933 0 22 0 22 12
+Noman Mirpur-2 Mirpur-12 2 4.9 0 5 30 6 0
+Jisan Kachukhet Mirpur-11 1 5 1 20 30 21 20
