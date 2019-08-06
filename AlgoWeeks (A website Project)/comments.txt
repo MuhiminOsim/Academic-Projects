@@ -1,0 +1,12 @@
+<? php
+   if(!empty($_POST['remember'])){
+     $cookie_name=$_POST['user'];
+     $cookie_value=$POST['pass'];
+     setcookie('cookie_name',$cookie_value,time()+(86400*30));
+   }
+   else{
+     <div class="card">
+        <h2>NOT SET </h2>
+     </div>
+   }
+  ?>
