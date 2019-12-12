@@ -1,0 +1,56 @@
+header->math
+int fun->main()
+{
+    !!this is a single line comment
+    !* this is
+    a multiple line comment
+    *! 
+    int var->i = fact(4);
+    int var->j = 30;
+    fun->print("var");
+    int var->p = power(10,2);
+    fun->print(var->p);
+    if(var->i<=var->j){
+        if(var->i<10){
+            fun->print("less than 10");
+        }
+        elif(var->i==10){
+            fun->print("equal to 10");
+        }
+        else{
+            if(var->i<15){
+                fun->print("less than 15");
+            }
+            elif(var->i==15){
+                fun->print("equal to 15");
+            }
+            elif(var->i==24){
+                fun->print("equal to 24");
+            }
+        }
+    }
+    elif(var->j<var->i){
+        fun->print("greater than var->j");
+    }
+    else{
+        fun->print("WOW");
+    }
+    fun->print(var->i);
+    Switch(var->i){
+        10:{
+            fun->print("greater than var->j");
+        }
+        default:{
+            fun->print("hello");
+        }
+    }
+    int var->k;
+    for(var->k=0;var->k<1;var->k=var->k+1){
+        fun->print("for loop");
+    }
+    var->k=1;
+    while(var->k<2){
+        fun->print("while loop");
+        var->k=var->k+1;
+    }
+}
